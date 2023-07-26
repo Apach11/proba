@@ -1,6 +1,7 @@
 public class Main {
     public static void main(String[] args) {
         init a = 12
+        init b = 11
 
 
         // Объявляете переменные для входных данных и
